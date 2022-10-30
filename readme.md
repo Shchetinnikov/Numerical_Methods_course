@@ -22,3 +22,4 @@ Laboratory works:
 Laboratory works:
 1. System of linear equations | Gaussian elimination;
 2. System of linear equations | Gauss–Seidel method;
+3. System of linear equations | Minimal residual method;
