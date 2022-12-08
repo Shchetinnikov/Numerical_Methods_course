@@ -23,3 +23,5 @@ Laboratory works:
 1. System of linear equations | Gaussian elimination;
 2. System of linear equations | Gauss–Seidel method;
 3. System of linear equations | Minimal residual method;
+4. Dirichlet problem | The method of establishment. Scheme of variable directions;
+5. Boundary problem | The finite element method.
